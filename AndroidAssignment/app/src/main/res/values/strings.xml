@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">A location-based forum</string>
+    <string name="about_us">Your post</string>
+    <string name="start">Start</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="home">Home</string>
+    <string name="registration">Registration</string>
+    <string name="full_name">Full Name</string>
+    <string name="Register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+    <string name="menu">Menu</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="test">test</string>
+    <string name="forum">Forum</string>
+    <string name="fresh">Refresh</string>
+    <string name="Newpost">Add New Post</string>
+    <string name="Posttitle">Post Title</string>
+    <string name="Postcontent">Post Content</string>
+    <string name="loc">You are at: </string>
+    <string name="mapkey" translatable="false">AIzaSyDWDeImkMfRsdL_VScC-K8Xx20mm_AjEe8</string>
+    <string name="reply">Add new reply</string>
+    <string name="index">index</string>
+    <string name="Title">Title</string>
+    <string name="getlocation">Get location</string>
+    <string name="Registered">Registered</string>
+    <string name="used">User name been used</string>
+    <string name="logining">Logining</string>
+    <string name="yourpost">Your post</string>>
+</resources>

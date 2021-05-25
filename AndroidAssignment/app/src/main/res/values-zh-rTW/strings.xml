@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">基於位置的論壇</string>
+    <string name="Login">登錄</string>
+    <string name="Email">電子郵件</string>
+    <string name="password">密碼</string>
+    <string name="login">登錄</string>
+    <string name="Dashboard">儀錶盤</string>
+    <string name="start">開始</string>
+    <string name="about_us">你的帖子</string>
+    <string name="register_here">在這裡註冊</string>
+    <string name="home">主頁</string>
+    <string name="registration">登記</string>
+    <string name="full_name">全名</string>
+    <string name="Register">登記</string>
+    <string name="already_registered_login_here">已經登記了？ 這裡登錄</string>
+    <string name="menu">菜單</string>
+    <string name="dashboard">儀錶盤</string>
+    <string name="logout">登出</string>
+    <string name="test">測試</string>
+    <string name="forum">論壇</string>
+    <string name="fresh">刷新</string>
+    <string name="Newpost">添加新帖子</string>
+    <string name="Posttitle">帖子標題</string>
+    <string name="Postcontent">帖子內容</string>
+    <string name="loc">你的位置：</string>
+    <string name="reply">新增回覆</string>
+    <string name="index">索引</string>
+    <string name="Title">標題</string>
+    <string name="getlocation">拎到位置啦</string>
+    <string name="Registered">注冊了</string>
+    <string name="used">此帳號名稱己被使用</string>
+    <string name="logining">登入中</string>
+    <string name="yourpost">你的帖子</string>
+</resources>
